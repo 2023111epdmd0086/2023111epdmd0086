@@ -11,9 +11,9 @@ I am an electrical engineer, systems analyst, and programmer who seeks to unite 
 
 <br><br><br>
 <div align="center">
-  <a href="https://github.com/jonkstro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonkstro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonkstro&layout=compact&langs_count=10&theme=dracula"/>
+  <a href="https://github.com/2023111epdmd0086">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2023111epdmd0086&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2023111epdmd0086&layout=compact&langs_count=10&theme=dracula"/>
 </div>
  
  ### Tecnologias que mais utilizo:
@@ -57,10 +57,7 @@ I am an electrical engineer, systems analyst, and programmer who seeks to unite 
 ## Contato:
 
 <div> 
-  <a href="https://www.linkedin.com/in/jonas-castro-713542b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/jonkstro/jonkstro/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.linkedin.com/in/jonas-castro-713542b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 
