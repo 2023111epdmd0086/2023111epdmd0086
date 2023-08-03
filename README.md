@@ -1,6 +1,6 @@
 # Oi eu sou Jonas! 👋
 
-Atualmente, estou cursando o sétimo período de graduação em **Engenharia Elétrica** e o primeiro período de **Especialização em Programação para Dispositivos Móveis**. Além disso, sou formado em Análise e Desenvolvimento de Sistemas (ADS).
+Atualmente, estou cursando o primeiro período de **Especialização em Programação para Dispositivos Móveis**. Além disso, sou formado em Análise e Desenvolvimento de Sistemas (ADS).
 
 
 [English]
